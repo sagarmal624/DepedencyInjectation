@@ -25,9 +25,9 @@ public class DepedencyInjectationApplication {
 //        ColorManager colorManager = (ColorManager) context.getBean("colorManager");
 //        colorManager.printColor();
 
-        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(JavaConfig.class);
-        ColorManager colorManager = (ColorManager) context.getBean("colorManager");
-        colorManager.printColor();
+//        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(JavaConfig.class);
+//        ColorManager colorManager = (ColorManager) context.getBean("colorManager");
+//        colorManager.printColor();
 
 
     }
