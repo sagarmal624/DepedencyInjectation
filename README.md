@@ -43,8 +43,11 @@ Dependency Injection means that container automatically injects the dependency o
 
 
 # Constructor Method
-	1. In constructor injection, partial injection of dependencies cannot possible, because for calling constructor we must pass all the arguments right, if not so we may get error
+
+1. In constructor injection, partial injection of dependencies cannot possible, because for calling constructor we must pass all the arguments right, if not so we may get error
   
+2. But, constructor injection cannot overrides the setter injected values
+	
   3. In this case, Constructor injection is highly recommended, as we can inject all the dependencies with in 3 to 4 lines [i mean, by calling one constructor]
   
   
