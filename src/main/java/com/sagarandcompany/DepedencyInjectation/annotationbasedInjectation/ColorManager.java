@@ -1,4 +1,4 @@
-package com.sagarandcompany.DepedencyInjectation.solution;
+package com.sagarandcompany.DepedencyInjectation.annotationbasedInjectation;
 
 public class ColorManager {
     MyColor color;

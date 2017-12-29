@@ -4,10 +4,10 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd"
 >
 
-    <bean name="blueColor" class="com.sagarandcompany.DepedencyInjectation.solution.BlueColor"/>
-    <bean name="redColor" class="com.sagarandcompany.DepedencyInjectation.solution.RedColor"/>
-    <bean name="colorManager" class="com.sagarandcompany.DepedencyInjectation.solution.ColorManager">
-        <property name="color" ref="redColor"/>
-    </bean>
+    <!--<bean name="blueColor" class="com.sagarandcompany.DepedencyInjectation.solution.BlueColor"/>-->
+    <!--<bean name="redColor" class="com.sagarandcompany.DepedencyInjectation.solution.RedColor"/>-->
+    <!--<bean name="colorManager" class="com.sagarandcompany.DepedencyInjectation.solution.ColorManager">-->
+    <!--<property name="color" ref="redColor"/>-->
+    <!--</bean>-->
 
 </beans>
