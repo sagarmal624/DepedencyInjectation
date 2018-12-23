@@ -14,7 +14,7 @@ Dependency Lookup example
 
 # Dependency Injection (DI)
 
-JavaTpoint Defination-The Dependency Injection is a design pattern that removes the dependency of the programs.
+The Dependency Injection is a design pattern that removes the dependency of the programs.
 Dependency Injection means that container automatically injects the dependency of each class based on bean definition.
 
 
