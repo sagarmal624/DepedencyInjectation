@@ -20,6 +20,11 @@ Dependency Injection means that container automatically injects the dependency o
 
 ![alt text](http://dev.anyframejava.org/docs.en/anyframe/plugin/essential/core/1.0.1/reference/image/core/spring/ioc-dependencyinjection.jpg)
 
+
+![alt text](http://javafreakers.com/wp-content/uploads/2015/01/Dependency-Injection-in-spring.png)
+
+
+
 # Spring framework provides two ways to inject dependency
 
 * By Constructor
